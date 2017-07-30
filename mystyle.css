@@ -1,0 +1,21 @@
+.av-header{
+    box-shadow: 0px 0px 15px grey;
+}
+
+#acad{
+    color: blue;
+}
+
+#view{
+    color: black;
+}
+
+.heading-text{
+    font-size: 30px;
+    text-align: center;
+}
+
+#sidenav-ka-style{
+    height: 600px; 
+    background-color: rgb(63, 81, 181);
+}
